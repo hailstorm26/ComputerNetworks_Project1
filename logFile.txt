@@ -1,0 +1,7 @@
+
+Successfully connected. IP: 34.173.12.133   Port: 3389
+Message received: Hello there ('192.58.125.22', 29450). Here is another random quote of wisdom for you:I claim complete innocence and ignorance! It must have been Tim. I wouldn't know a Trondheim Hammer if it fell on my foot!, Steve Majewski, 10 Jan 1995
+
+Closing connection.
+
+---------------------------
